@@ -7,3 +7,5 @@ i = 1
 # range(1, 31) genera números desde 1 hasta 30 (sin incluir el 31).
 for i in range(1, 31):
     print(f"HOLA {i}")
+    a =2 
+
